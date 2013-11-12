@@ -1,0 +1,135 @@
+body {
+	width: 100%;
+	background-image: url("..images/pillow_header.jpg");
+}
+
+#wrapper {
+	width: 77.45098%;
+	border: 38px solid #687;
+	margin-left: 10%;
+	padding-bottom: 40px;
+	background-color: white;
+	-moz-box-shadow: 5px 13px 12px black;
+	-webkit-box-shadow: 5px 13px 12px black;
+	box-shadow: 5px 13px 12px black, inset 1px 0px 300px 0px #87B9B1; 
+}
+
+#client {
+	color: #000;
+	width: 80%a
+	font-size: 2em;
+	margin-left: 10%;
+}
+
+	#client img {
+		width: 89%;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+a:link {
+	color: inherit;
+}
+
+a:visited {
+	color: inherit;
+}
+
+a:hover {
+	color: inherit;
+}
+
+a:active {
+	color: inherit;
+}
+
+
+#project {
+	font-size: 1.3em;
+	width: 30%;
+	color: #000;
+	font-weight: normal;
+	float: left;
+	margin: 0% 0% 30px 10%;
+}
+
+#designer {
+	font-size: 1.3em;
+	width: 30%;
+	color: #000;
+	font-weight: normal;
+	margin: 0% 0% 30px 10%;
+}
+
+
+
+/*------------------------------- Analysis ----------------------------------*/
+
+
+
+#analysis {
+	clear: both;
+	margin: 0% 10% 0% 10%;
+}
+
+h2 {
+	font-weight: bold;
+	color: #000;
+	font-size: 1.375em;
+	padding-top: 15px;
+	text-decoration: none;
+}
+
+p {
+	color: #000;
+	text-indent: 2%;  
+}
+
+h3 {
+	font-weight: bold;
+	color: #000;
+	font-size: 1.062em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#keywords {
+	text-indent: 0;
+	margin-top: 8px; 
+}
+
+ul {
+	padding-left: 0;
+}
+
+h4 {
+	font-size: .937em;
+	color: #525252;
+	text-indent: 2%;
+}
+
+li {
+	color: #616161;
+	margin-left: 6%;
+	color: #3B3B3B;
+}
+
+.discription {
+	width: 60%;
+	margin-left: 10%;
+	color: #3B3B3B;
+}
+
+#site {
+	padding-bottom: 30px;
+	margin-top: 8px;
+}
+
+#demo {
+	margin-left: 6%;
+}
+
+
